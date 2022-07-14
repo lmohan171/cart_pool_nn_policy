@@ -1,0 +1,6 @@
+gym
+notebook
+matplotlib
+tqdm
+gym[classic_control]
+tensorflow
